@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ I calculated the total cost per class and printed it out along with the new variables I made and their type. I also added a random method that picks a random value from a list
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 0 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < 5 >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ NONE
 
 ## REFERENCES:
- < List any outside resources used >
+ NONE
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ I didn't add the type or print out the varibales I did not create because it only said to do that for the variables you create. I didn't delete any code in part A either.
